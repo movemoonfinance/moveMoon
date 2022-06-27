@@ -372,7 +372,7 @@
         </li>
         <li>
           <p>
-            By visiting this page on our website:{" "}
+            By visiting this page on our website:
             <a
               href="https://movemoon.finance"
               rel="external nofollow noopener"
